@@ -6,6 +6,7 @@ namespace ConsoleApp27
 {
     class Class1
     {
+        //doda ja
         //novi komentar
     }
 }
